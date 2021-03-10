@@ -2,8 +2,8 @@
 
 <a href="https://github.com/alorma/github-stats">
 
-![](https://github.com/alorma/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/alorma/github-stats/blob/master/generated/languages.svg)
+![Stats](https://raw.githubusercontent.com/alorma/GitStats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/alorma/GitStats/master/generated/languages.svg)
 
 </a>
 
